@@ -3,7 +3,7 @@
 # ---------------------------------------------------------------------------------------------- #
 
 ### Para criar um ambiente virtual          |---    To create a virtual environment
---> https://github.com/digitalinnovationone/netflix-dataset
+--> https://source.com/
 
 ### Para criar um ambiente virtual          |---    To create a virtual environment
 --> python -m venv venv
