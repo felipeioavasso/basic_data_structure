@@ -3,7 +3,7 @@
 # ---------------------------------------------------------------------------------------------- #
 
 ### Para criar um ambiente virtual          |---    To create a virtual environment
---> https://source.com/
+--> https://yourdatabasepath
 
 ### Para criar um ambiente virtual          |---    To create a virtual environment
 --> python -m venv venv
